@@ -65,7 +65,7 @@ class AzizHamdaoui:
 | Year | Title | Institution |
 |------|-------|-------------|
 | _YYYY – YYYY_ | _Your degree / diploma_ | _Your school_ |
-| _YYYY_ | _Certification (e.g. Google Data Analytics, Microsoft PL-300)_ | _Provider_ |
+| 2026 | **Introduction to Cybersecurity** (Verified Certificate) | Cisco Networking Academy |
 
 ---
 
