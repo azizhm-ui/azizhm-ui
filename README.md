@@ -65,6 +65,7 @@ class AzizHamdaoui:
 | Year | Title | Institution |
 |------|-------|-------------|
 | _YYYY – YYYY_ | _Your degree / diploma_ | _Your school_ |
+| 2026 | **General Knowledge of Cloud Computing** (Certificate of Completion) | Huawei ICT Academy |
 | 2026 | **Introduction to Cybersecurity** (Verified Certificate) | Cisco Networking Academy |
 
 ---
